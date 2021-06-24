@@ -33,18 +33,18 @@ $courses = [
  * array_values($courses);
  */
 
-echo "<pre>";
-var_dump(array_key_exists('fronted', $courses));
-echo "</pre>";
+// echo "<pre>";
+// var_dump(array_key_exists('fronted', $courses));
+// echo "</pre>";
 
-echo "<pre>";
-var_dump(in_array('javascript', $courses));
-echo "</pre>";
+// echo "<pre>";
+// var_dump(in_array('javascript', $courses));
+// echo "</pre>";
 
-echo "<pre>";
-var_dump(array_keys($courses));
-echo "</pre>";
+// echo "<pre>";
+// var_dump(array_keys($courses));
+// echo "</pre>";
 
-echo "<pre>";
-var_dump(array_values($courses));
-echo "</pre>";
+// echo "<pre>";
+// var_dump(array_values($courses));
+// echo "</pre>";
