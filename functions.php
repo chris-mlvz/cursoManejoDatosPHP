@@ -1,15 +1,15 @@
 <?php
 
 // * valores
-function greet()
-{
-    // return ['PDF', 'vista'];
-}
+// function greet()
+// {
+//     // return ['PDF', 'vista'];
+// }
 
-var_dump(greet());
+// var_dump(greet());
 
-exit(); // detiene el sistema
-return; // retorna
+// exit(); // detiene el sistema
+// return; // retorna
 
 // * referencias
 // $course = 'PHP';
