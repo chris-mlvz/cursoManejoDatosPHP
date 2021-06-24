@@ -1,12 +1,15 @@
 <?php
 
 // * valores
-// function greet($name)
-// {
-//     return "Hola, $name";
-// }
+function greet()
+{
+    // return ['PDF', 'vista'];
+}
 
-// echo greet('Italo');
+var_dump(greet());
+
+exit(); // detiene el sistema
+return; // retorna
 
 // * referencias
 // $course = 'PHP';
@@ -20,10 +23,10 @@
 // echo $course; // Laravel
 
 // * predeterminado
-function greet($name = 'Italo')
-{
-    return "Hola, $name";
-}
+// function greet($name = 'Italo')
+// {
+//     return "Hola, $name";
+// }
 
-echo greet();
-echo greet('Abel');
+// echo greet();
+// echo greet('Abel');
